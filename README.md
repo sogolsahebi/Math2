@@ -1,1 +1,1 @@
-# Math Presntation SIR Model
+# Math322H5 : SIR model.
